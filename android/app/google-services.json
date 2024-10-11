@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "282523751374",
+    "project_id": "all4u-d55e9",
+    "storage_bucket": "all4u-d55e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282523751374:android:6a25fcf26945f4527d919f",
+        "android_client_info": {
+          "package_name": "com.all4umarketplace.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282523751374-pr2n90j9j06l2mp2jv0dhmdihiu1kvjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.all4umarketplace.android",
+            "certificate_hash": "7e42fa43de93ced33cae0791f8ac1e8906141460"
+          }
+        },
+        {
+          "client_id": "282523751374-bc0c2sbsjmtu5rv7ajiipneh9u9s8cpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxfX_MmNNZzPabRN6ZsHb5gz0nlHjlKes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282523751374-bc0c2sbsjmtu5rv7ajiipneh9u9s8cpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282523751374-4prj8mgsejvv0gjt4sg5n600jiu3h4ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "simtech.all4umarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282523751374:android:0328620b80c33ae07d919f",
+        "android_client_info": {
+          "package_name": "com.simtech.all4umarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282523751374-gk3bn8cu892a5h3b5eulg2n64gmi1mgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simtech.all4umarket",
+            "certificate_hash": "7e42fa43de93ced33cae0791f8ac1e8906141460"
+          }
+        },
+        {
+          "client_id": "282523751374-p2neq7eisfaqjoni85svj9ldr8vkfafg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simtech.all4umarket",
+            "certificate_hash": "8363067eeee6cb8df73e9da65e0063b39b995297"
+          }
+        },
+        {
+          "client_id": "282523751374-bc0c2sbsjmtu5rv7ajiipneh9u9s8cpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxfX_MmNNZzPabRN6ZsHb5gz0nlHjlKes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282523751374-bc0c2sbsjmtu5rv7ajiipneh9u9s8cpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282523751374-4prj8mgsejvv0gjt4sg5n600jiu3h4ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "simtech.all4umarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

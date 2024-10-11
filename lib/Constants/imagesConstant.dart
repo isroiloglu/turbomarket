@@ -1,0 +1,34 @@
+class AppImages {
+  static const logo = "assets/Images/appLogo.png";
+  static const splashBottomText = "assets/Images/splashBottomText.png";
+  static const logoTitle = "assets/Images/appNameIcon.png";
+  static const onBoardingScreen1 = "assets/Images/onBoardingScreen1.png";
+  static const onBoardingScreen2 = "assets/Images/onBoardingScreen2.png";
+  static const appLogo = "assets/Images/appLogo.png";
+  static const facebookIcon = "assets/Images/facebookIcon.png";
+  static const googleIcon = "assets/Images/googleIcon.png";
+  static const appleIcon = "assets/Images/appleIcon.png";
+  static const homeIcon = "assets/Images/homeIcon.png";
+  static const searchIcon = "assets/Images/searchIcon.png";
+  static const retailIcon = "assets/Images/retailIcon.png";
+  static const cartIcon = "assets/Images/bag.png";
+  static const profileIcon = "assets/Images/profileIcon.png";
+  static const storeOneIcon = "assets/Images/store1.png";
+  static const storeTwoIcon = "assets/Images/store2.png";
+  static const tenderIcon = "assets/Images/tendersIcon.png";
+  static const drawerLogo = "assets/Images/drawerLogo.png";
+  static const myFavoriteIcon = "assets/Images/myFavorites.png";
+  static const myOrdersIcon = "assets/Images/bag.png";
+  static const myAccountIcon = "assets/Images/profileIcon.png";
+  static const myPointsIcon = "assets/Images/myPoints.png";
+  static const messageIcon = "assets/Images/messageIcon.png";
+  static const logoutIcon = "assets/Images/logoutIcon.png";
+  static const languageIcon = "assets/Images/languageIcon.png";
+  static const locationIcon = "assets/Images/locationIcon.png";
+  static const backIcon = "assets/Images/backIcon.png";
+  static const appBarIcon = "assets/Images/appBarIcon.png";
+  static const filterIcon = "assets/Images/filterIcon.png";
+  static const currencyIcon = "assets/Images/currencyIcons.png";
+  static const arrowDown = "assets/Images/arrowDown.png";
+  static const cancelIcon = "assets/Images/close.png";
+}

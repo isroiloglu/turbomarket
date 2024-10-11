@@ -1,0 +1,30 @@
+const String home = 'homeScreen';
+const String splash = 'splashScreen';
+const String storeSelection = 'storeSelection';
+const String onBoarding = 'onBoarding';
+const String login = 'login';
+const String signup = 'signup';
+const String bottomNavigation = "bottomNavigation";
+const String catalogPage = "catalogPage";
+const String cmsPage = "cmsScreen";
+const String orderList = "orderList";
+const String orderDetail = "orderDetail";
+const String myPoints = "myPoints";
+
+const String category = "category";
+const String wishlist = "wishlist";
+const String subCategory = "subCategory";
+
+const String productDetailPage = 'productDetailPage';
+const String promotions = "promotions";
+const String cartPage = 'cartPage';
+const String checkoutAddress = 'checkoutAddress';
+const String searchScreen = 'searchScreen';
+const String countryProduct = 'countryProduct';
+const String forgotPassword = "forgotPassword";
+const String accountInformation = "accountInformation";
+const String guestCheckoutAddress = "guestCheckoutGuestCheckout";
+const String orderSuccess = "orderSuccess";
+const String shippingScreen = "shippingScreen";
+const String paymentScreen = "paymentScreen";
+const String paymentWebviewScreen = "paymentWebviewScreen";
